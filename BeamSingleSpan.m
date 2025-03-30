@@ -32,9 +32,6 @@ classdef BeamSingleSpan < matlab.mixin.Copyable
         R2
         M1
         M2
-
-        % x_Mmax
-        % x_Ymax
     end
 
     methods
