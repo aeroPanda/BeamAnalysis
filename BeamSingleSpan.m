@@ -1,8 +1,7 @@
+classdef BeamSingleSpan < matlab.mixin.Copyable
 %% Original Author:    Alek Xu
 % Original Date:    2025/03/29
-% Last Modified On: 2025/03/30
-
-classdef BeamSingleSpan < matlab.mixin.Copyable
+% Last Modified On: 2025/03/31
     properties (SetObservable, Access = public)
         Increment = 0.01
         x double
