@@ -1,5 +1,5 @@
 classdef BeamSingleSpan < matlab.mixin.Copyable
-%% Original Author:    Alek Xu
+% Original Author:  Alek Xu
 % Original Date:    2025/03/29
 % Last Modified On: 2025/03/31
     properties (SetObservable, Access = public)
